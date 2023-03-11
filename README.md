@@ -13,7 +13,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Com Machine Learning, eu posso transformar dados em insights poderosos e criar soluções inovadoras.
 
 ### Últimos videos:
 - [Como usar o Custom ChatGPT](https://www.youtube.com/watch?v=3KlVZibOYvE)<br/>
