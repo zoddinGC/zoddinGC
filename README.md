@@ -2,8 +2,6 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/GianCampos)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=zoddinGC&show_icons=true&theme=dracula&count_private=true)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
